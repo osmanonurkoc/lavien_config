@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.6",
-  "latestVersionCode": 16,
+  "latestVersionCode": 17,
   "disableRequest": {
-    "below": 16,
-    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15"
+    "below": 17,
+    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16"
   },
   "url": "https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.foryou.outline",
   "releaseNotes": [
