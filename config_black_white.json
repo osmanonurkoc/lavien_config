@@ -1,14 +1,12 @@
 {
   "latestVersion": "1.6",
-  "latestVersionCode": 17,
+  "latestVersionCode": 18,
   "disableRequest": {
-    "below": 17,
-    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16"
+    "below": 18,
+    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17"
   },
   "url": "https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.black.white",
   "releaseNotes": [
-    "Dashboard updated",
-    "Lawnicons support added so android 10/11 device has partial material you",
-    "Bugfixes and optimization"
+    "45 new icons added"
   ]
 }
