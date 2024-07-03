@@ -1,12 +1,13 @@
 {
-    "latestVersion": "1.0 rebased",
-    "latestVersionCode": 17,
+    "latestVersion": "1.0.1",
+    "latestVersionCode": 18,
     "disableRequest": {
-        "below": 17,
-        "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16"
+        "below": 18,
+        "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17"
     },
     "url": "https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.mono.dark",
     "releaseNotes": [
-        "45 new icons added"
+    "Widgets redesigned",
+    "Bugfix and optimizations"
     ]
 }
