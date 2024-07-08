@@ -1,13 +1,13 @@
 {
-    "latestVersion": "1.0.1",
-    "latestVersionCode": 18,
+    "latestVersion": "1.1",
+    "latestVersionCode": 19,
     "disableRequest": {
-        "below": 18,
-        "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17"
+        "below": 19,
+        "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18"
     },
     "url": "https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.adaptive.neon",
     "releaseNotes": [
-    "Widgets redesigned",
-    "Bugfix and optimizations"
+        "108 new icons added",
+        "bug fixes"
     ]
 }
