@@ -1,0 +1,12 @@
+{
+    "latestVersion": "1.0",
+    "latestVersionCode": 1,
+    "disableRequest": {
+        "below": 11,
+        "on": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "url": "https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.lines.neon",
+    "releaseNotes": [
+        "First Release"
+    ]
+}
